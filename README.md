@@ -1,8 +1,9 @@
 # 🧬🐍 Python desde cero para Bioinformática
 
 **Manual interactivo del participante | RSG México**  
-**Brindado por:** Jazmín Fuentes Becerril ·
-**Nivel:** principiante · **Duración:** 4 horas (2 sesiones de 2 horas)  
+**Brindado por:** Jazmín Fuentes Becerril 
+**Nivel:** principiante  
+**Duración:** 4 horas (2 sesiones de 2 horas)  
 **Herramientas:** Python · Google Colab · Pandas · GitHub
 
 ¡Bienvenida y bienvenido! Este repositorio contiene un manual práctico para aprender los fundamentos de Python desde cero y comenzar a explorar datos científicos. No necesitas experiencia previa en programación.
