@@ -2,7 +2,7 @@
 
 **Manual interactivo del participante | RSG México**  
 **Brindado por:** Jazmín Fuentes Becerril 
-**Nivel:** principiante  
+**Nivel:** Principiante  
 **Duración:** 4 horas (2 sesiones de 2 horas)  
 **Herramientas:** Python · Google Colab · Pandas · GitHub
 
